@@ -1,0 +1,2 @@
+Ghi chú thực hành Git.
+Cap nhat ghi chu
